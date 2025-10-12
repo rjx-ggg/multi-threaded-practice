@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/3.多线程异步记录操作日志/demo-operationlog-springboot/pom.xml" />
         <option value="$PROJECT_DIR$/millions-demo/millions-demo/pom.xml" />
         <option value="$PROJECT_DIR$/exceptiondata/pom.xml" />
+        <option value="$PROJECT_DIR$/9-11.接口请求批量调用结合多线程 优化系统性能/spring-boot-asyncbatch-v1.0.5/sample/pom.xml" />
+        <option value="$PROJECT_DIR$/9-11.接口请求批量调用结合多线程 优化系统性能/spring-boot-asyncbatch-v1.0.5/pom.xml" />
       </list>
     </option>
   </component>

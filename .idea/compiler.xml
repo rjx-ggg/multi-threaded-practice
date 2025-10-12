@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="millions-demo" />
         <module name="woniu-springboot-interface-demo (1)" />
+        <module name="sample" />
         <module name="woniu-springboot-interface-demo (2)" />
         <module name="down-bit" />
       </profile>
