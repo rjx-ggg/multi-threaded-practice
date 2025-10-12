@@ -10,6 +10,7 @@
       <list>
         <option value="$PROJECT_DIR$/2.多线程下载/down-bit-master/down-bit-master/pom.xml" />
         <option value="$PROJECT_DIR$/3.多线程异步记录操作日志/demo-operationlog-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/millions-demo/millions-demo/pom.xml" />
       </list>
     </option>
   </component>
